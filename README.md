@@ -1,1 +1,1 @@
-install anaconda and run jupyter notebook
+install anaconda and run the command jupyter notebook
